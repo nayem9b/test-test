@@ -1,1 +1,2 @@
 Hello from branch B
+Hello from branch A
